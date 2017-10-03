@@ -1,0 +1,40 @@
+header {
+    background-color: #eebb44;
+    margin-bottom: 40px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: black;
+}
+
+header h1 {
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+header p {
+    margin-top: 0.5em;
+}
+
+.char {
+    border: 1px solid lightgrey;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 100%;
+}
+
+.text {
+    padding: 20px;
+}
+
+.text h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.text p {
+    margin: 0.5em 0;
+}
